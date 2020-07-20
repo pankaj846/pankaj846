@@ -1,11 +1,11 @@
 <h1>Hi, I am <a href="https://pankaj846.github.io/portfolio/">Pankaj</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<img align='right' src="https://github.com/pankaj846/pankaj846/blob/master/front.png" width="930" />
+
 
 <a href="https://www.linkedin.com/in/pankaj846"><img src="https://github.com/pankaj846/portfolio/blob/master/assets/images/linkedin.svg" width="40" /></a>
 <a href="https://github.com/pankaj846"><img src="https://github.com/pankaj846/portfolio/blob/master/assets/images/github5.svg" width="40" /></a>
 <a href="https://www.facebook.com/pankaj846"><img src="https://github.com/pankaj846/portfolio/blob/master/assets/images/facebook.svg" width="40" /></a>
 
-
+<img align='right' src="https://github.com/pankaj846/pankaj846/blob/master/front.png" width="930" />
 <!-- <h3>What I do? 👨‍💻</h3> -->
 <!-- <details>
 <summary>Data Scientist 📊</summary>
