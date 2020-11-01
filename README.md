@@ -34,8 +34,8 @@
 
 
 
-![Pankaj's Github Stats](https://github-readme-stats.vercel.app/api?username=pankaj846&show_icons=true&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj846)](https://github.com/pankaj846/github-readme-stats)
+![Pankaj's Github Stats](https://github-readme-stats.vercel.app/api?username=pankaj846)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj846&)](https://github.com/pankaj846/github-readme-stats)
 
 
 
