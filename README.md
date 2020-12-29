@@ -4,6 +4,8 @@
 <a href="https://www.linkedin.com/in/pankaj846"><img src="https://github.com/pankaj846/portfolio/blob/master/assets/images/linkedin.svg" width="40" /></a>
 <a href="https://github.com/pankaj846"><img src="https://github.com/pankaj846/portfolio/blob/master/assets/images/github5.svg" width="40" /></a>
 <a href="https://www.facebook.com/pankaj846"><img src="https://github.com/pankaj846/portfolio/blob/master/assets/images/facebook.svg" width="40" /></a>
+<a href="https://www.leetcode.com/pankaj846"><img src="https://pankajsingh.me/assets/images/LeetCode_logo_black.png" width="40" /></a>
+<a href="https://www.hackerrank.com/pankaj846"><img src="https://pankajsingh.me/assets/images/hackerrank_circle.svg" width="40" /></a>
 
 <img align='right' src="https://github.com/pankaj846/pankaj846/blob/master/front.png" width="930" />
 <!-- <h3>What I do? 👨‍💻</h3> -->
@@ -35,7 +37,7 @@
 
 
 ![Pankaj's Github Stats](https://github-readme-stats.vercel.app/api?username=pankaj846)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj846&)](https://github.com/pankaj846/github-readme-stats)
+
 
 
 
