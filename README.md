@@ -7,7 +7,7 @@
 <a href="https://www.leetcode.com/pankaj846"><img src="https://pankajsingh.me/assets/images/LeetCode_logo_black.png" width="40" /></a>
 <a href="https://www.hackerrank.com/pankaj846"><img src="https://pankajsingh.me/assets/images/hackerrank_circle.svg" width="40" /></a>
 
-<img align='right' src="https://github.com/pankaj846/pankaj846/blob/master/front.png" width="930" />
+<img align='right' src="https://github.com/pankaj846/pankaj846/blob/master/f1.jpg" width="930" />
 <!-- <h3>What I do? 👨‍💻</h3> -->
 <!-- <details>
 <summary>Data Scientist 📊</summary>
