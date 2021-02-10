@@ -8,7 +8,7 @@
 <a href="https://www.hackerrank.com/pankaj846"><img src="https://pankajsingh.me/assets/images/hackerrank_circle.svg" width="40" /></a>
 
  
-<img align='right' src="https://github.com/pankaj846/pankaj846/blob/master/coder.svg" width="430" />
+<img align='right' src="https://github.com/pankaj846/pankaj846/blob/master/comp.svg" width="330"/>
 
 <h1>Tools I work upon: </h1> 
 
